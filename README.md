@@ -6,7 +6,7 @@ Ini adalah aplikasi **Calculator**, sebuah kalkulator sederhana berbasis web yan
 
 Kamu bisa mencoba aplikasi **Calculator** secara langsung melalui tautan berikut:
 
-[Demo Aplikasi Calculator](https://bagusweb.github.io/calculator/)
+[Demo Aplikasi Calculator](https://baguserlanggaa.github.io/kalkulator-simple/)
 
 ## Fitur Utama
 
@@ -17,7 +17,7 @@ Kamu bisa mencoba aplikasi **Calculator** secara langsung melalui tautan berikut
 
 ## Cara Menjalankan
 
-1. Buka tautan [Demo Aplikasi Calculator](https://bagusweb.github.io/calculator/).
+1. Buka tautan [Demo Aplikasi Calculator](https://baguserlanggaa.github.io/kalkulator-simple/).
 2. Gunakan tombol angka dan operasi untuk melakukan perhitungan.
 3. Hasil perhitungan akan langsung ditampilkan di layar kalkulator.
 
@@ -26,3 +26,5 @@ Kamu bisa mencoba aplikasi **Calculator** secara langsung melalui tautan berikut
 - HTML
 - CSS
 - JavaScript
+
+- #baguserlangga
